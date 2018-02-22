@@ -1,1 +1,2 @@
 c'est mon 2eme fichier texte crée par la commande line.
+aprés la 3eme commit, j'ai edité ce fichier dans sublime text3.
